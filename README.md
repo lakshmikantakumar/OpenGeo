@@ -2,6 +2,12 @@
 
 OpenGeo is an open-source geospatial software suite designed to facilitate the processing, analysis, and visualization of geospatial data. It offers a comprehensive set of tools and libraries that cater to various geospatial needs, making it an invaluable resource for researchers, developers, and geospatial analysts.
 
+## Conda environment
+
+```
+conda env create -f environment.yml
+conda activate geo-env
+```
 ## Features
 - Geospatial Data Processing: Efficient handling and processing of geospatial datasets.
 

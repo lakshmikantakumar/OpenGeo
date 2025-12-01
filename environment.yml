@@ -1,0 +1,17 @@
+name: geo-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.9
+  - geopandas
+  - shapely
+  - rasterio
+  - fiona
+  - pyproj
+  - gdal
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - psutil
+  - tqdm
